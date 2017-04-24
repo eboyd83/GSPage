@@ -1,0 +1,45 @@
+/*NAVIGATION ALL*/
+
+.main-content {
+ padding-top: 1px;
+ margin-left: 7%;
+ margin-right: 7%;
+
+}
+
+footer {
+	background-color: #4b8444;
+	height: 75px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+}
+
+/*HOME PAGE*/
+
+.about-section {
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 20%;
+}
+
+/*CONTACT PAGE*/
+
+h1 {
+	margin-bottom: 2%;
+}
+
+.glyphicon-map-marker {
+	margin-bottom: 7%;
+}
+.contact-section {
+	margin-top: 25px;
+	margin-bottom: 20%;
+}
+
+.contact-left {
+	padding-right: 5%;
+}
+
+.contact-right {
+	padding-left: 10%;
+}
